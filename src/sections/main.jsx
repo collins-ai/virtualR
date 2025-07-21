@@ -1,7 +1,7 @@
 import Features from './features'
 import Hero from './hero'
 import Pricing from './pricing'
-import Testimonials from './Testimonials'
+import Testimonials from './testimonials'
 import Workflow from './workflow'
 
 const Main = () => {
